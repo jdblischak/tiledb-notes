@@ -1,0 +1,14 @@
+name: tiledb
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyter
+  - libtiledb-sql-py
+  - numpy
+  - pandas
+  - pyarrow
+  - python
+  - tiledb
+  - tiledb-py
+
